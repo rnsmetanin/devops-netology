@@ -1,5 +1,5 @@
 #!/bin/bash
-# display command line options
+# display command line optionss
 
 count=1
 for param in "$*"; do
